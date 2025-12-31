@@ -1,0 +1,14 @@
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\obj\Debug\BusinessLogic.vbproj.AssemblyReference.cache
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\obj\Debug\BusinessLogic.Resources.resources
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\obj\Debug\BusinessLogic.vbproj.GenerateResource.cache
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\obj\Debug\BusinessLogic.vbproj.CoreCompileInputs.cache
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\bin\Debug\BusinessLogic.xml
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\obj\Debug\Business.DD62619E.Up2Date
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\obj\Debug\BusinessLogic.xml
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\SZU\source\repos\WindowsApp1\BusinessLogic\bin\Debug\DataAccess.xml
